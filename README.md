@@ -31,7 +31,7 @@ Simulation Core: Pure JavaScript logic modeling the structure of a Lighthouse AP
 
 Open the file: Load lighthouse_tracker/index.html in your browser.
 
-Input URL: Enter any website URL (the domain doesn't matter, as the data is simulated).
+Input URL: Enter any website URL 
 
 Run Audit: Click the "Run Lighthouse Audit" button.
 
