@@ -1,5 +1,7 @@
-# Lighthouse-Score-Tracker-CI-CD-Simulator-HTML-JS-
+# Lighthouse Score Tracker CI CD Simulator
 ⚡ Lighthouse Score Tracker & CI/CD Simulator
+
+<img width="1076" height="562" alt="image" src="https://github.com/user-attachments/assets/ce3f352c-d6f1-42c8-b70b-1d83d0fb596a" />
 
 Web Performance Monitoring Dashboard
 
